@@ -3,9 +3,9 @@
 ## /////La primera vez que lo hacemos/////
 
 - git init
-- <<creamos fichero>>
+- creamos fichero
 - git add . (o nombre fichero.png.txt.etc)
-- git commit -m "mensajito"                **(Usuario)**
+- git commit -m "mensajito"                
 - git remote add origin https://github.com/**ChriBiels**/misDiagramas.git
 - git push origin master
 
