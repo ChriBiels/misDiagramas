@@ -12,7 +12,7 @@
 
 ## /////Segunda vez/////
 
-- <<creamos fichero>
+- creamos fichero
 - git add . (o nombre fichero.png.txt.etc)
 - git commit -m "mensajito"
 - git push origin master
